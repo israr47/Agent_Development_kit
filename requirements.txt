@@ -1,0 +1,12 @@
+
+ragas
+langchain-core==0.2.4
+google-generativeai==0.5.2
+langchain-google-genai==1.0.5
+ragas
+datasets
+pandas
+python-dotenv
+opencv-python
+movenet
+scipy
